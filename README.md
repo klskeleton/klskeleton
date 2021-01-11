@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning vue , js and some web-design  
+- 💬 Ask me about js and java question
+- 📫 How to reach me: qq -- 877526278
